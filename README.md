@@ -1,6 +1,6 @@
-# accounting
+# Vue SPA Accounting App
 
-> Accounting frontend
+> This is a sample SPA app I started working on while learning to build Vue single page applications. This app was never finished but has some basic functionality such as the ability to register an entity through stripe connect and then proceed with identity verification. I also built a RESTful API with Laravel that this app consumes. 
 
 ## Build Setup
 
