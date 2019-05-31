@@ -1,9 +1,5 @@
-# THIS REPO IS NO LONGER MAINTAINED
-This is an unfinished project that I used to learn the basics of building single page JavaScript applications with Vue. This is the client application for the Laravel accounting API project.
-
-# Vue SPA Accounting App
-
-> This is a sample SPA app I started working on while learning to build Vue single page applications. This app was never finished but has some basic functionality such as the ability to register an entity through stripe connect and then proceed with identity verification. I also built a RESTful API with Laravel that this app consumes. 
+# DEPRECATED / NO LONGER MAINTAINED
+This project was used for educational reasons whilst learning the Vue JS framework. It is unfinished and is on GitHub simply to serve as a backup, should it be needed for any reason. 
 
 ## Build Setup
 
